@@ -1,0 +1,23 @@
+body{
+    background-image: linear-gradient(orange, white,green);
+    background-repeat: no-repeat ;
+    background-size: 200vh 100vh;
+}
+
+#box{
+position: relative;
+width: 280px;
+height: 80px;
+padding: 5px;
+margin-left: 40%;
+color: #ff0000;
+border-radius: 5px;
+border: 3px solid #32557f;
+text-align: center;
+}
+
+
+      
+
+ 
+
